@@ -34,7 +34,7 @@ nav a:hover {
 .card {
     float: left;
     width: 20%;
-    margin-left: 10%;
+    margin: 10%;
 }
 
 .card a {
@@ -49,6 +49,9 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 20px;
+}
 
 
 
